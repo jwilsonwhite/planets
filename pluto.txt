@@ -2,4 +2,10 @@ Pluto is a planet
 
 No, it is not.
 
+<<<<<<< HEAD
 
+=======
+Yes it is!
+
+No it's not.
+>>>>>>> experimental
