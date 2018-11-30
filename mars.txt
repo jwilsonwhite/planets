@@ -7,3 +7,5 @@ But the mummy will appreciate the lack of humidity.
 Consider Mars' beauty.
 
 Both owner and collaborator make a change.
+
+Change to cause conflict.
